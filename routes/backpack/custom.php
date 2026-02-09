@@ -27,6 +27,8 @@ Route::group([
 
     Route::crud('import', 'ImportCrudController');
     Route::crud('user', 'UserCrudController');
+    Route::crud('profile', 'ProfileCrudController');
+    Route::crud('transaction', 'TransactionCrudController');
 }); // this should be the absolute last line of this file
 
 /**

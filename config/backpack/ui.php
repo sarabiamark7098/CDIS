@@ -46,7 +46,7 @@ return [
     // ----
 
     // Project name - shown in the window title
-    'project_name' => 'integrated CIS',
+    'project_name' => 'Centralized Data Integration System (CDIS)',
 
     // Content of the HTML meta robots tag to prevent indexing and link following
     'meta_robots_content' => 'noindex, nofollow',
@@ -63,7 +63,7 @@ return [
     'home_link' => 'admin',
 
     // Menu logo. You can replace this with an <img> tag if you have a logo.
-    'project_logo' => '<b>i</b>CIS',
+    'project_logo' => '<b>CDIS</b>',
 
     // Show / hide breadcrumbs on admin panel pages.
     'breadcrumbs' => true,
